@@ -25,6 +25,7 @@
 ## 🤖 Notes
 
 This project was manually coded with some occasional help from open-source LLM tools for guidance and optimization and is currently hosted on Lovable for convenience. Only the hosting was done through Lovable — all code was written manually.
+
 chore: updated project description for clarity in README
 
 ## 🌐 Live Demo
